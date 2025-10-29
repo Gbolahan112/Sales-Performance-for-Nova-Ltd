@@ -1,6 +1,8 @@
 # Sales-Performance-for-Nova-Ltd
 Sales Performance Dashboard for visualizing and analyzing core sales data. Built to provide real-time insights into team and individual metrics.
 
+![WhatsApp Image 2025-10-22 at 4 09 37 AM](https://github.com/user-attachments/assets/3f8f6283-aef1-4201-9238-c7ed0b742a4d)
+
 ## Introduction
 This report presents the analysis of NovaRetail Ltd.’s sales data to understand sales
 performance across four Nigerian cities , Lagos, Abuja, Kano, Port Harcourt.
