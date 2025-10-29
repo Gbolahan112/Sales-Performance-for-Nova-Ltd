@@ -13,3 +13,7 @@ Nature of Business: Sales of electronics, appliances, and accessories.
 Business Goal:
 To identify sales trends, top-performing categories, customer patterns, and areas
 that can improve profitability.
+
+## Business Goal:
+To identify sales trends, top-performing categories, customer patterns, and areas
+that can improve profitability.
