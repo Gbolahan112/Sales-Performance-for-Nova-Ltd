@@ -2,7 +2,6 @@
 Sales Performance Dashboard for visualizing and analyzing core sales data. Built to provide real-time insights into team and individual metrics.
 Exploratory Data Analysis using Python, Pandas, Matplotlib, Seaborn, Plotly
 
-![WhatsApp Image 2025-10-22 at 4 09 37 AM](https://github.com/user-attachments/assets/3f8f6283-aef1-4201-9238-c7ed0b742a4d)
 
 ## Introduction
 This report presents the analysis of NovaRetail Ltd.’s sales data to understand sales
@@ -23,13 +22,38 @@ that can improve profitability.
 
 ## Analysis & Key Insights
 * Revenue Insights
-The total revenue generated was ₦29,521,000 across all cities. Lagos contributed
-the highest share of revenue ₦9,285,500. September 2024 recorded the highest
-monthly sales ₦4,744,500. Revenue from Returning Customers drive the majority
+The total revenue generated was ₦29,521,000 across all cities.
+
+Lagos contributed
+the highest share of revenue ₦9,285,500.
+<img width="989" height="531" alt="Screenshot 2025-11-04 120042" src="https://github.com/user-attachments/assets/a283e920-5aef-4bf5-89ca-45cf5912c5ff" />
+
+
+ September 2024 recorded the highest
+monthly sales ₦4,744,500. 
+
+Revenue from Returning Customers drive the majority
 (59%) of total revenue.
 
+<img width="667" height="578" alt="Screenshot 2025-11-04 120813" src="https://github.com/user-attachments/assets/c0d4dc94-dc51-41bf-8759-867b5f4946f3" />
+
+
+The pie chart illustrates the revenue split between two customer categories:
+0 = New Customers
+1 = Returning Customers
+Returning customers (represented by 1) contribute the majority of the total revenue — approximately 59%.
+New customers (represented by 0) account for the remaining 41%.
+Returning customers generate more revenue than new customers.
+This suggests strong customer loyalty and repeat purchases.
+
+
 * Customer Insights
-Total number of distinct customers 77. Returning customers generated more
+Total number of distinct customers 77.
+
+<img width="389" height="332" alt="Screenshot 2025-11-04 122235" src="https://github.com/user-attachments/assets/8b4860bb-e7da-40e4-8d94-cf76b8920832" />
+
+
+Returning customers generated more
 consistent sales. Customers purchased more than once 23. Average Revenue Per
 Customer ₦383,389.61.
 
@@ -37,9 +61,25 @@ Customer ₦383,389.61.
 The most popular product category by sales volume Electronics. Electronics
 generated the highest total revenue. Average revenue per unit (Electronics)
 ₦156,959.02
+
+<img width="839" height="547" alt="Screenshot 2025-11-04 122803" src="https://github.com/user-attachments/assets/4fec0713-788d-4af9-a0dd-fcfe60f478c5" />
+
 * Sales Rep Insights
-  Highest performing sales rep: Abdul Salim . Average units sold per sales rep: Abdul
-Salim 134, Mary Felix 113, Chuka Obasi 110. Total discount given across all sales:
+  Highest performing sales rep: Abdul Salim, From the bar chart titled “Revenue by Sales Representative,” Abdul Salim generated the highest total revenue among all sales representatives.
+
+<img width="964" height="561" alt="Screenshot 2025-11-04 123054" src="https://github.com/user-attachments/assets/6b5b2730-2236-4c1f-9c02-f308a062c2a5" />
+
+Abdul Salim: ₦10,587,500
+Chuka Obasi: ₦9,830,500
+Mary Felix: ₦9,103,000
+
+Average units sold per sales rep: Abdul
+Salim 134, Mary Felix 113, Chuka Obasi 110.
+
+<img width="896" height="605" alt="Screenshot 2025-11-04 123848" src="https://github.com/user-attachments/assets/0095727a-b522-471e-b19b-87ce1daeb210" />
+
+
+Total discount given across all sales:
 ₦375,300.
 
 ## Summary of Findings
@@ -72,3 +112,13 @@ TV and get 20% off soundbar accessories") to boost sales in the lowerrevenue cat
 * Accessories units sold were 22 in Abuja, Investigate why Accessory sales are
 strong in certain cities like Abuja. Replicate successful marketing/placement
 strategies from Abuja in other cities like Lagos and Port Harcourt.
+
+## Conclusion
+* Revenue Driver: The Electronics category and the Lagos city market are the
+primary sources of total revenue ( ₦29,521,000).
+* Customer Value: Returning Customers are more valuable, contributing nearly
+60% of total revenue.
+* Sales Peak: Sales revenue peaked significantly in September 2024
+(₦4,744,500).
+  *Top Performer: Abdul Salim is the top sales representative by total revenue
+(₦10,587,500).
