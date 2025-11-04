@@ -35,7 +35,7 @@ monthly sales ₦4,744,500.
 Revenue from Returning Customers drive the majority
 (59%) of total revenue.
 
-<img width="667" height="578" alt="Screenshot 2025-11-04 120813" src="https://github.com/user-attachments/assets/c0d4dc94-dc51-41bf-8759-867b5f4946f3" />
+<img width="667" height="578" alt="Screenshot 2025-11-04 120813" src="https://github.com/user-attachments/assets/c0d4dc94-dc51-41bf-8759-867b5f4946f3"/>
 
 
 The pie chart illustrates the revenue split between two customer categories:
