@@ -23,13 +23,10 @@ that can improve profitability.
 ## Analysis & Key Insights
 * Revenue Insights
 The total revenue generated was ₦29,521,000 across all cities.
-
 Lagos contributed
 the highest share of revenue ₦9,285,500.
 
-
-<img width="964" height="561" alt="Screenshot 2025-11-04 123054" src="https://github.com/user-attachments/assets/a227aa1a-4ae4-4a66-8395-c62dc4148cd2" />
-
+<img width="989" height="531" alt="Screenshot 2025-11-04 120042" src="https://github.com/user-attachments/assets/5c874b5f-7546-4bee-a698-91060b76693d" />
 
  September 2024 recorded the highest
 monthly sales ₦4,744,500. 
@@ -37,13 +34,15 @@ monthly sales ₦4,744,500.
 Revenue from Returning Customers drive the majority
 (59%) of total revenue.
 
-<img width="667" height="578" alt="Screenshot 2025-11-04 120813" src="https://github.com/user-attachments/assets/c0d4dc94-dc51-41bf-8759-867b5f4946f3"/>
+
+<img width="667" height="578" alt="Screenshot 2025-11-04 120813" src="https://github.com/user-attachments/assets/3204ea3a-48f0-44e9-9cfa-658261447dd1" />
 
 
 The pie chart illustrates the revenue split between two customer categories:
 0 = New Customers
 1 = Returning Customers
-Returning customers (represented by 1) contribute the majority of the total revenue — approximately 59%.
+Returning customers (represented by 1) 
+ntribute the majority of the total revenue — approximately 59%.
 New customers (represented by 0) account for the remaining 41%.
 Returning customers generate more revenue than new customers.
 This suggests strong customer loyalty and repeat purchases.
@@ -52,8 +51,6 @@ This suggests strong customer loyalty and repeat purchases.
 * Customer Insights
 Total number of distinct customers 77.
 
-<img width="389" height="332" alt="Screenshot 2025-11-04 122235" src="https://github.com/user-attachments/assets/8b4860bb-e7da-40e4-8d94-cf76b8920832" />
-
 
 Returning customers generated more
 consistent sales. Customers purchased more than once 23. Average Revenue Per
@@ -61,7 +58,8 @@ Customer ₦383,389.61.
 
 * Product Insights
 The most popular product category by sales volume Electronics. Electronics
-generated the highest total revenue. Average revenue per unit (Electronics)
+generated the highest total reven<img width="989" height="531" alt="Screenshot 2025-11-04 120042" src="https://github.com/user-attachments/assets/354920ee-49f4-41b6-b070-c62916560903" />
+ue. Average revenue per unit (Electronics)
 ₦156,959.02
 
 <img width="839" height="547" alt="Screenshot 2025-11-04 122803" src="https://github.com/user-attachments/assets/4fec0713-788d-4af9-a0dd-fcfe60f478c5" />
