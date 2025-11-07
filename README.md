@@ -53,14 +53,21 @@ This suggests strong customer loyalty and repeat purchases.
 Total number of distinct customers 77.
 
 
+<img width="389" height="332" alt="Screenshot 2025-11-04 122235" src="https://github.com/user-attachments/assets/c3a41fa2-83d2-4af7-a420-bda764798fce" />
+
+
 Returning customers generated more
 consistent sales. Customers purchased more than once 23. Average Revenue Per
 Customer ₦383,389.61.
 
 * Product Insights
 The most popular product category by sales volume Electronics. Electronics
-generated the highest total reven<img width="989" height="531" alt="Screenshot 2025-11-04 120042" src="https://github.com/user-attachments/assets/354920ee-49f4-41b6-b070-c62916560903" />
-ue. Average revenue per unit (Electronics)
+generated the highest total revenue.
+
+<img width="989" height="531" alt="Screenshot 2025-11-04 120042" src="https://github.com/user-attachments/assets/354920ee-49f4-41b6-b070-c62916560903" />
+
+
+Average revenue per unit (Electronics)
 ₦156,959.02
 
 <img width="839" height="547" alt="Screenshot 2025-11-04 122803" src="https://github.com/user-attachments/assets/4fec0713-788d-4af9-a0dd-fcfe60f478c5" />
