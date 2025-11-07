@@ -26,9 +26,10 @@ The total revenue generated was ₦29,521,000 across all cities.
 Lagos contributed
 the highest share of revenue ₦9,285,500.
 
-<img width="989" height="531" alt="Screenshot 2025-11-04 120042" src="https://github.com/user-attachments/assets/5c874b5f-7546-4bee-a698-91060b76693d" />
+<img width="964" height="561" alt="Screenshot 2025-11-04 123054" src="https://github.com/user-attachments/assets/2385cace-a683-4d53-bb1a-624bd9c5f52f" />
 
- September 2024 recorded the highest
+
+* September 2024 recorded the highest
 monthly sales ₦4,744,500. 
 
 Revenue from Returning Customers drive the majority
