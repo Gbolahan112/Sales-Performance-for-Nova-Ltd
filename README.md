@@ -27,9 +27,11 @@ Lagos contributed
 the highest share of revenue ₦9,285,500.
 
 
-<img width="964" height="561" alt="Screenshot 2025-11-04 123054" src="https://github.com/user-attachments/assets/d1dcc78f-f3d8-42f3-a613-0a714a093d9e" />
+
+<img width="934" height="546" alt="Screenshot 2025-11-04 123054" src="https://github.com/user-attachments/assets/b7af8606-dcf9-4451-b68f-5ce06eed3a48" />
 
 * September 2024 recorded the highest
+
 monthly sales ₦4,744,500. 
 
 Revenue from Returning Customers drive the majority
