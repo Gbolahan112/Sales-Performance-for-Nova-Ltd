@@ -27,15 +27,17 @@ Lagos contributed
 the highest share of revenue ₦9,285,500.
 
 
+<img width="989" height="531" alt="Screenshot 2025-11-04 120042" src="https://github.com/user-attachments/assets/6087d5a3-7f1a-4194-889a-04a15a5e5770" />
 
-<img width="934" height="546" alt="Screenshot 2025-11-04 123054" src="https://github.com/user-attachments/assets/b7af8606-dcf9-4451-b68f-5ce06eed3a48" />
 
-* September 2024 recorded the highest
 
-monthly sales ₦4,744,500. 
+* September 2024 recorded the highest monthly sales ₦4,744,500. 
+
+
 
 Revenue from Returning Customers drive the majority
 (59%) of total revenue.
+
 
 
 <img width="667" height="578" alt="Screenshot 2025-11-04 120813" src="https://github.com/user-attachments/assets/3204ea3a-48f0-44e9-9cfa-658261447dd1" />
@@ -62,22 +64,25 @@ Returning customers generated more
 consistent sales. Customers purchased more than once 23. Average Revenue Per
 Customer ₦383,389.61.
 
+
+
 * Product Insights
 The most popular product category by sales volume Electronics. Electronics
 generated the highest total revenue.
-
-<img width="989" height="531" alt="Screenshot 2025-11-04 120042" src="https://github.com/user-attachments/assets/354920ee-49f4-41b6-b070-c62916560903" />
-
-
 Average revenue per unit (Electronics)
 ₦156,959.02
 
+
 <img width="839" height="547" alt="Screenshot 2025-11-04 122803" src="https://github.com/user-attachments/assets/4fec0713-788d-4af9-a0dd-fcfe60f478c5" />
+
 
 * Sales Rep Insights
   Highest performing sales rep: Abdul Salim, From the bar chart titled “Revenue by Sales Representative,” Abdul Salim generated the highest total revenue among all sales representatives.
 
+
+
 <img width="964" height="561" alt="Screenshot 2025-11-04 123054" src="https://github.com/user-attachments/assets/6b5b2730-2236-4c1f-9c02-f308a062c2a5" />
+
 
 Abdul Salim: ₦10,587,500
 Chuka Obasi: ₦9,830,500
@@ -86,11 +91,10 @@ Mary Felix: ₦9,103,000
 Average units sold per sales rep: Abdul
 Salim 134, Mary Felix 113, Chuka Obasi 110.
 
+
 <img width="896" height="605" alt="Screenshot 2025-11-04 123848" src="https://github.com/user-attachments/assets/0095727a-b522-471e-b19b-87ce1daeb210" />
 
 
-Total discount given across all sales:
-₦375,300.
 
 ## Summary of Findings
 Total revenue ₦29,521,000 million across four cities. Lagos was the top-performing
@@ -130,5 +134,5 @@ primary sources of total revenue ( ₦29,521,000).
 60% of total revenue.
 * Sales Peak: Sales revenue peaked significantly in September 2024
 (₦4,744,500).
-  *Top Performer: Abdul Salim is the top sales representative by total revenue
+* Top Performer: Abdul Salim is the top sales representative by total revenue
 (₦10,587,500).
